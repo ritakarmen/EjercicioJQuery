@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	padding: 30px;
+}
+button{
+	margin: 20px 130px 
+
+}
+#jueguito{
+	width: 360px;
+	margin: 40px auto 0px auto;
+}
+.row{
+	clear: both;
+	overflow: hidden;
+}
+.caja{
+	float: left;
+	width: 119px;
+	height: 90px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 35px;
+	border: 1px solid black;
+}
+.fa.fa-times{
+	background: #BB8F9B;
+}
+.fa.fa-circle-o{
+	background: #6E70B9;
+}
